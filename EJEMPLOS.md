@@ -1,4 +1,4 @@
-3.- Ejemplos
+# 3.- Ejemplos
 Podemos obtener la última versión de WordPress usando lo siguiente: "wget https://wordpress.org/latest.zip", en este ejemplo, se descargará un archivo llamado latest.zip
 en el directorio de trabajo actual. También verá información adicional. Usando con wget la opción -S, este muestra todas las peticiones enviadas por la aplicación y las
 respuestas enviadas por el servidor web. La opción -d activa el modo desarrollador, lo que hace que se vea toda la información disponible.
