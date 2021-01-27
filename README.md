@@ -7,6 +7,6 @@
 
 ## Imagenes
 
-# 5.- [Imágenes](https://github.com/kikelopser/wget/blob/main/IMAGENES.md)
+# 5.- [Imágenes](https://github.com/kikelopser/wget/tree/main/IMAGENES)
 
 #  Enrique López Serrano
